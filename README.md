@@ -11,11 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vidhi sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vidhi sharma" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vidhi-sharma-3a2581222?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bfziqj%2bvwrvonywcku6p0zg%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vidhi-sharma-3a2581222?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bfziqj%2bvwrvonywcku6p0zg%3d%3d" height="30" width="40" /></a>
 <a href="https://instagram.com/i.vidhuu.pandit__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.vidhuu.pandit__" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/1★vidhi_sharma12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="1★vidhi_sharma12" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vidhi sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vidhi sharma" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vidhi sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vidhi sharma" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/vidhupandit24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/vidhupandit24" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

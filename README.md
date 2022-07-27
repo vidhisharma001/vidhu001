@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Front-End and any tech related stuff!!**
 
-- 📫 How to reach me **vidhupandit24@gmail.com**
+- 📫 How to reach me **vidhisharmaqwerty@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

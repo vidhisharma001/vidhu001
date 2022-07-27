@@ -12,7 +12,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vidhi-sharma-3a2581222/"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vidhi-sharma-3a2581222?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bfziqj%2bvwrvonywcku6p0zg%3d%3d" height="30" width="40" /></a>
-<a href="https://instagram.com/i.vidhuu.pandit__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/i.vidhuu.pandit__" height="30" width="40" /></a>
+
+<a href="https://www.instagram.com/i_vidhuu.pandit__/"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.instagram.com/i_vidhuu.pandit__/"lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bfziqj%2bvwrvonywcku6p0zg%3d%3d" height="30" width="40" /></a>
+
 
 </p>
 
